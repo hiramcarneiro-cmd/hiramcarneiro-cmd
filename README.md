@@ -19,14 +19,9 @@ Gosto de aprender coisas novas e desenvolver projetos que envolvem código e har
 ---
 
 
-## 📈 Streak (dias seguidos codando)
-![GitHub Streak](https://streak-stats.demolab.com/?user=hiramcarneiro-cmd&theme=tokyonight)
-
----
-
 ## 📫 Contato
-📧 Email: 
-💬 Discord: seu_user#0000  
+📧 Email: hiram.carneiro@gmail.com 
+💬 Discord: hirampessoa9917
 
 ---
 
