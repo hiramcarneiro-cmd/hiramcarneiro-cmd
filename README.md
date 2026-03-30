@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Hiram Pessoa Carneiro!
 
 💻 Estudante de programação  
-🌐 Sei inglês  
-🔌 Conhecimento em eletrônica  
+🌐 Sei inglês   
 🤖 Interessado em Inteligência Artificial  
 
 ---
